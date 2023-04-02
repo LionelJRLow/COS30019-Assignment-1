@@ -7,7 +7,7 @@ an empty node and has to traverse one node at a time in order to reach the goal.
 grid there will walls generated that the robot cannot pass through, needing it to go around the
 walls. For this assignment the size of the grid, location of the agent, goals and the walls were
 given beforehand.
-<br>
+<br><br>
 The approach I took for this assignment was to use a search tree based approach in order to
 reach the goal. Instead of generating the grid beforehand and filling it up with the walls and
 goals and making the robot traverse the pre generated graph, the robot will instead generate
