@@ -1,0 +1,14 @@
+C:\Users\Lionel Jr\Documents\COS30019\TreeBasedSearchAssignment1\bin\Debug\netcoreapp3.1\TreeBasedSearchAssignment1.exe
+C:\Users\Lionel Jr\Documents\COS30019\TreeBasedSearchAssignment1\bin\Debug\netcoreapp3.1\TreeBasedSearchAssignment1.deps.json
+C:\Users\Lionel Jr\Documents\COS30019\TreeBasedSearchAssignment1\bin\Debug\netcoreapp3.1\TreeBasedSearchAssignment1.runtimeconfig.json
+C:\Users\Lionel Jr\Documents\COS30019\TreeBasedSearchAssignment1\bin\Debug\netcoreapp3.1\TreeBasedSearchAssignment1.runtimeconfig.dev.json
+C:\Users\Lionel Jr\Documents\COS30019\TreeBasedSearchAssignment1\bin\Debug\netcoreapp3.1\TreeBasedSearchAssignment1.dll
+C:\Users\Lionel Jr\Documents\COS30019\TreeBasedSearchAssignment1\bin\Debug\netcoreapp3.1\TreeBasedSearchAssignment1.pdb
+C:\Users\Lionel Jr\Documents\COS30019\TreeBasedSearchAssignment1\obj\Debug\netcoreapp3.1\TreeBasedSearchAssignment1.csproj.AssemblyReference.cache
+C:\Users\Lionel Jr\Documents\COS30019\TreeBasedSearchAssignment1\obj\Debug\netcoreapp3.1\TreeBasedSearchAssignment1.AssemblyInfoInputs.cache
+C:\Users\Lionel Jr\Documents\COS30019\TreeBasedSearchAssignment1\obj\Debug\netcoreapp3.1\TreeBasedSearchAssignment1.AssemblyInfo.cs
+C:\Users\Lionel Jr\Documents\COS30019\TreeBasedSearchAssignment1\obj\Debug\netcoreapp3.1\TreeBasedSearchAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Lionel Jr\Documents\COS30019\TreeBasedSearchAssignment1\obj\Debug\netcoreapp3.1\TreeBasedSearchAssignment1.dll
+C:\Users\Lionel Jr\Documents\COS30019\TreeBasedSearchAssignment1\obj\Debug\netcoreapp3.1\TreeBasedSearchAssignment1.pdb
+C:\Users\Lionel Jr\Documents\COS30019\TreeBasedSearchAssignment1\obj\Debug\netcoreapp3.1\TreeBasedSearchAssignment1.genruntimeconfig.cache
+C:\Users\Lionel Jr\Documents\COS30019\TreeBasedSearchAssignment1\obj\Debug\netcoreapp3.1\TreeBasedSearchAssignment1.GeneratedMSBuildEditorConfig.editorconfig
